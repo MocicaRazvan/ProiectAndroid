@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProiectAndroid</string>
+
+    <string name="facebook_app_id">113421241707107</string>
+    <string name="fb_login_protocol_scheme">fb113421241707107</string>
+    <string name="facebook_client_token">44d953710499b12c9c26e3426519fdb0</string>
+
+    <string name="portraitText">Portrait</string>
+    <string name="landscapeText">Landscape</string>
+
+    <string name="api_key">12d01a8707fe4ab88abab3d8e54910ad</string>
+    <string name="channel_name">proiectAndroid</string>
+    <string name="channel_desc">proiectAndroid</string>
+    <string name="channel_id">proiectAndroid</string>
+    <string name="motto">‘Quality news’ used to mean ‘broadsheet’ (in the days when we had big newspapers) and implied elite, serious, important journalism. It was, somehow defined  (usually by the journalists themselves), by ‘not’ being populist, entertaining, or about ‘trivial’ subjects. But what is it in an age when the personal and emotional, the subjective and the immediate are significant drivers of public interest, debate and understanding of events? And how do we find it in an age of disintermediated, distributed, on-demand journalism that is blended into our individual, AI-driven news streams or feeds and recommendation engines?
+
+        Quality means the nature of things. That’s a bit general. How about, ‘it’s not quantity?’ The trouble with that is that for a news organisation quantity (or reach) still matters when you are thinking about what you can afford to produce.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
